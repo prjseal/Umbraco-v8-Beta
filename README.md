@@ -1,6 +1,10 @@
 # Umbraco v8 Beta Site
 
+## What is this?
+
 I set up this repo so I can play with Umbraco v8 without having to install the alpha/beta nuget package each time or without having to fork the temp8 branch of the UmbracoCms source code.
+
+## Why don't you fork and clone it?
 
 Feel free to fork it if you want to use it.
 
@@ -8,12 +12,13 @@ When you want to go back to the beginning you can just revert the changes.
 
 The login details for the backoffice are:
 
-Username: admin@admin.com
-Password: 1234567890
+<strong>Username:</strong> admin@admin.com
 
-If you are interested in the steps I took to get this repo ready, here they are. You won't need to do this though if you just fork the repo.
+<strong>Password:</strong> 1234567890
 
-To set this site up, all I did was the following:
+## Want to do something like this yourself?
+
+If you are interested in the steps I took to get this repo ready, here they are. You won't need to do this though if you just fork the repo:
 
 - Create the repo in GitHub
 - Clone the repo
