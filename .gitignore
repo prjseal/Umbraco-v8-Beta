@@ -24,3 +24,8 @@
 
 # Ignore the Models Builder models out of date flag
 **/App_Data/Models/ood.flag
+/.vs
+/packages
+/UmbracoV8Beta.Web/bin
+/UmbracoV8Beta.Web/obj/Debug
+/UmbracoV8Beta.Web/Umbraco
