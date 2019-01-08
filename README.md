@@ -1,4 +1,4 @@
-# Umbraco v8 Beta Site
+# Umbraco v8 Alpha/Beta Site
 
 ## What is this?
 
